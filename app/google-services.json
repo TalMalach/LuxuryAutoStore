@@ -1,0 +1,166 @@
+{
+  "project_info": {
+    "project_number": "424569444526",
+    "firebase_url": "https://luxurycarsapp.firebaseio.com",
+    "project_id": "luxurycarsapp",
+    "storage_bucket": "luxurycarsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424569444526:android:ee5ac5b216b262c0",
+        "android_client_info": {
+          "package_name": "com.TET.luxurycarsstoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424569444526-5eoisim3mpq87hf6mo25rtq3rtlenoni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4n9uJCaUyKSeU8bU47WzJPAXqhEiA2gA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424569444526:android:9dbd6364aaad5085",
+        "android_client_info": {
+          "package_name": "com.tet.luxurycarsonlinestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424569444526-5eoisim3mpq87hf6mo25rtq3rtlenoni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4n9uJCaUyKSeU8bU47WzJPAXqhEiA2gA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424569444526:android:f1f098a6ca5de15b",
+        "android_client_info": {
+          "package_name": "com.tet.mywhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424569444526-5eoisim3mpq87hf6mo25rtq3rtlenoni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4n9uJCaUyKSeU8bU47WzJPAXqhEiA2gA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424569444526:android:1907b29b579a4daa",
+        "android_client_info": {
+          "package_name": "com.tet.luxurycarstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424569444526-5eoisim3mpq87hf6mo25rtq3rtlenoni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4n9uJCaUyKSeU8bU47WzJPAXqhEiA2gA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424569444526:android:7fda1e4929286126",
+        "android_client_info": {
+          "package_name": "com.tet.luxuryautostore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424569444526-5eoisim3mpq87hf6mo25rtq3rtlenoni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4n9uJCaUyKSeU8bU47WzJPAXqhEiA2gA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
