@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
 
     private Button AboutButton;
     private Button loginButton;
+    private Button signInButton;
 
 
     public void aboutButtonClicked()
@@ -39,13 +40,27 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+
+    public void signInButtonClicked()
+    {
+        signInButton = (Button)findViewById(R.id.login_sign_in_button);
+        signInButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(MainActivity.this, ActivityLogin.class);
+                //finish();
+                startActivity(intent);
+            }
+        });
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         aboutButtonClicked();
         registerButtonClicked();
-
+        signInButtonClicked();
     {
 
 

@@ -17,20 +17,22 @@
         android:id="@+id/textView3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_weight="0.66"
         android:text="Luxury Cars Online Store"
-        android:textSize="30sp"
-        android:layout_weight="0.66"/>
+        android:textSize="30sp"/>
 
     <Button
         android:id="@+id/main_button_about"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="@color/common_google_signin_btn_text_dark_default"
         android:text="About"/>
 
     <Button
         android:id="@+id/main_button_location"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="@color/common_google_signin_btn_text_dark_default"
         android:text="Location"/>
 
     <Button

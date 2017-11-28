@@ -39,6 +39,10 @@
 
         <activity android:name=".RegisterActivity">
         </activity>
+        <activity android:name=".ActivityLogin">
+        </activity>
+        <activity android:name=".MemberInfoActivity">
+        </activity>
     </application>
 
 </manifest>
